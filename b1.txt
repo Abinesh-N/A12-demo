@@ -8,3 +8,13 @@ this changes done in local laptop
 
 this changes fone in hub
 
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+git stash 
+
+
+git stash 2nd
+
+=======
+stash 3rd
+>>>>>>> Stashed changes
